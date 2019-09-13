@@ -25,7 +25,6 @@ Para que este desafio seja cumprido com sucesso você deve:
 Ao executar o comando ```codenation submit -c git-1``` os passos acima serão validados e sua nota será computada.
 
 ## Requisitos
-​
 Para este desafio você precisará de:
 
 - Git
